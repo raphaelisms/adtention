@@ -1,0 +1,25 @@
+{
+    "providerName": "Roku Recommends",
+    "language": "en-US",
+    "lastUpdated": "2016-10-06T18:12:32.125Z",
+    "shortFormVideos": [{
+        "id": "decbe34b64ea4ca281dc09997d0f23fd",
+        "title": "Puppy Test",
+        "shortDescription": "This is a Puppy",
+        "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
+        "genres": ["gaming", "technology"],
+        "tags": ["gaming", "broadcasts", "live", "twitch", "technology"],
+        "releaseDate": "2015-06-11",
+        "content": {
+            "dateAdded": "2015-06-11T14:14:54.431Z",
+            "captions": [],
+            "duration": 16,
+            "adBreaks": ["00:00:00"],
+            "videos": [{
+                "url": "https://s3.amazonaws.com/adtention-ctv/pupdec7.mp4",
+                "quality": "HD",
+                "videoType": "MP4"
+            }]
+        }
+    }]
+}
