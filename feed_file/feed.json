@@ -16,7 +16,7 @@
             "duration": 16,
             "adBreaks": ["00:00:00"],
             "videos": [{
-                "url": "https://s3.amazonaws.com/adtention-ctv/pupdec7.mp4",
+                "url": "https://s3.amazonaws.com/adtention-ctv/Futurama+S02E07+A+Head+In+The+Polls.mp4",
                 "quality": "HD",
                 "videoType": "MP4"
             }]
